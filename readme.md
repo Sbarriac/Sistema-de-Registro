@@ -3,4 +3,6 @@
 - Estado del Proyecto : En Construccion.
 
   Para ejecutar el sistema, debes poner:
-  '''app install start''' 
+  '''app install start'''
+
+  - Sistema de Registro 
